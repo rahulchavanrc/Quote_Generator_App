@@ -1,1 +1,2 @@
-https://rahul-6265.github.io/Quote_Generator_App/
+https://rahulchavanrc.github.io/Quote_Generator_App/
+
